@@ -1,4 +1,4 @@
-package com.github.bb9leko.cadastro;
+package com.github.bb9leko.foods.cadastro;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
