@@ -20,7 +20,7 @@ public class Prato extends PanacheEntityBase {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public long id; 
 
-    public String name; 
+    public String nome; 
 
     public String descricao; 
 
